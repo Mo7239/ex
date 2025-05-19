@@ -1,1 +1,2 @@
 hamo mn el remote
+hamo mn el local
